@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BookRentalWebApp:war">
+    <output-path>$PROJECT_DIR$/../BookRentalWebApp/target</output-path>
+    <root id="archive" name="BookRentalWebApp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BookRentalWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>

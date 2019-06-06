@@ -1,0 +1,4 @@
+com\mycompany\bookrentalwebapp\CustomerServlet.class
+com\mycompany\bookrentalwebapp\StartListener.class
+com\mycompany\bookrentalwebapp\BookServlet.class
+com\mycompany\bookrentalwebapp\RentServlet.class

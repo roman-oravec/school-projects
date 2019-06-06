@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BookRental/BookRental/BookRental.iml" filepath="$PROJECT_DIR$/../BookRental/BookRental/BookRental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookRentalParent.iml" filepath="$PROJECT_DIR$/BookRentalParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BookRentalWebApp/BookRentalWebApp.iml" filepath="$PROJECT_DIR$/../BookRentalWebApp/BookRentalWebApp.iml" />
+    </modules>
+  </component>
+</project>
